@@ -7,6 +7,7 @@
     --cor-quartenaria: #ffffff;
     --cor-quintaria:#5fcbd1;
     --cor-hover: #1e1321;
+    --cor-rodape: #2e2636;
     
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -26,8 +27,6 @@
    max-width: 600px;
    min-width: 300px;
    margin: 2%;
-
-  
 }
 
 
@@ -141,13 +140,13 @@ p{
 
 .rodape{
     padding: 15px solid;
-    color: var(--cor-quartenaria);
+    color: var(--cor-rodape);
     background-color: var(--cor-hover);
     text-align: center;
     font-family: var(--fonte-primaria);
     font-size: 1.3rem;
-
 }
+
 /*começo sobre mim*/
 .rodape_sobremim{
     padding: 15px solid;
